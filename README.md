@@ -10,18 +10,18 @@
 1. ~~[10.11.2017](exercises/exercise06)~~
 1. ~~[17.11.2017](exercises/exercise07)~~
 1. ~~[24.11.2017](exercises/exercise08)~~
-1. 01.12.2017
-1. 15.12.2017
-1. [05.01.2018](exercises/exercise11)
-1. [11.01.2018](exercises/exercise12)
-1. 12.01.2018
-1. 19.01.2018
+1. ~~01.12.2017~~
+1. ~~15.12.2017~~
+1. ~~[05.01.2018](exercises/exercise11)~~
+1. ~~[11.01.2018](exercises/exercise12)~~
+1. ~~12.01.2018~~
+1. [19.01.2018](exercises/exercise13)
 
 ## Оценяване
 
 ### Контролни (от лекции)
 1. ~~03.12.2017 09:00h @ Химически факултет, зала 210~~
-1. 14.01.2018 17:00h @ Химически факултет, зала 130
+1. ~~14.01.2018 17:00h @ Химически факултет, зала 130~~
 
 Взима се средно аритметично от двете контролни. **Освобождаване от писмен изпит** при оценка средно аритметично равна или над **4.50**.
 
@@ -30,7 +30,7 @@
 |-----------|:--------------:|:--------------:|
 | ~~1~~     | ~~20.10.2017~~ | ~~12.11.2017~~ |
 | ~~2~~     | ~~10.11.2017~~ | ~~26.11.2017~~ |
-| 3         | 01.12.2017     | 07.01.2018     |
+| ~~3~~     | ~~01.12.2017~~ | ~~07.01.2018~~ |
 | 4         | 05.01.2018     | 19.01.2018     |
 
 Всяко домашно представлява 1 единица от крайната оценка от семинарни упражнения. **Домашни предадени след крайния срок не се проверяват и не носят точки.**
@@ -70,42 +70,43 @@ Disclaimer: За всички задачи изискващи оптимални
 ##### Домашно 4
 Включва задачите:
 * [2-ра и 3-та задача](https://github.com/fmi-lab/sda-2017-si-2/tree/master/exercises/exercise11)
-* []()
+* [2-ра и 3-та задача](https://github.com/fmi-lab/sda-2017-si-2/tree/master/exercises/exercise13)
 
 Бонус:
 * [4-та задача](https://github.com/fmi-lab/sda-2017-si-2/tree/master/exercises/exercise11)
+* [4-та задача](https://github.com/fmi-lab/sda-2017-si-2/tree/master/exercises/exercise13)
 
 
-| Факултетен номер | Домашно 1 | Домашно 2 | Домашно 3 | Домашно 4 | Домашно 5 | Крайна оценка |
-|------------------|:---------:|:---------:|:---------:|:---------:|:---------:|---------------|
-| 62082            | -         | -         | -         | -         | -         | 2             |
-| 62098            | -         | -         | -         | -         | -         | 2             |
-| [62033](https://github.com/gtnikolov/SDA)            | -         | -         | -         | -         | -         | 2             |
-| [62042](https://github.com/georgiharak/SDA-Homeworks) | -         | -         | -         | -         | -         | 2             |
-| [62104](https://github.com/play4uman/SDA---Homeworks) | -         | -         | -         | -         | -         | 2             |
-| 62000            | -         | -         | -         | -         | -         | 2             |
-| 62032            | -         | -         | -         | -         | -         | 2             |
-| [62040](https://github.com/Impera7)            | -         | -         | -         | -         | -         | 2             |
-| [61997](https://github.com/arimmy/sda) | -         | -         | -         | -         | -         | 2             |
-| [61985](https://github.com/NadezhdaIvelinova) | -         | -         | -         | -         | -         | 2             |
-| [62072](https://github.com/NikolayKIvanov/SDA)            | -         | -         | -         | -         | -         | 2             |
-| [62043](https://github.com/nidimi/sda) | -         | -         | -         | -         | -         | 2             |
-| 62030            | -         | -         | -         | -         | -         | 2             |
-| [62052](https://github.com/petyazh)            | -         | -         | -         | -         | -         | 2             |
-| [61996](https://github.com/plamWorks/sda-hw) | -         | -         | -         | -         | -         | 2             |
-| 62108            | -         | -         | -         | -         | -         | 2             |
-| 855280           | -         | -         | -         | -         | -         | 2             |
-| 61878            | -         | -         | -         | -         | -         | 2             |
-| [62087](https://drive.google.com/drive/folders/0B_MfIUTwBkofRmZCLTQ0czVzYkk) | -         | -         | -         | -         | -         | 2             |
-| 855272          | -         | -         | -         | -         | -         | 2             |
-| 855264          | -         | -         | -         | -         | -         | 2             |
-| 855273          | -         | -         | -         | -         | -         | 2             |
-| 855262          | -         | -         | -         | -         | -         | 2             |
-| 855293          | -         | -         | -         | -         | -         | 2             |
-| [61935](https://drive.google.com/drive/folders/1scu9-W_YuE3GIfQtK1wNIx7aD7B-_bxX) | -         | -         | -         | -         | -         | 2             |
-| [61968](https://drive.google.com/drive/folders/1eOKrt-KP8mJM_xwEoNxbetZPXsmUSPIP) | -         | -         | -         | -         | -         | 2             |
-| [61932](https://drive.google.com/open?id=15ImGxA93WbyGXzKdNKGXDPWP8D5sBtyn) | -         | -         | -         | -         | -         | 2             |
-| [61971](https://github.com/Kaloyan96/Homework1) | -         | -         | -         | -         | -         | 2             |
+| Факултетен номер                                                                  | Домашно 1 | Домашно 2 | Домашно 3 | Домашно 4 | Крайна оценка |
+|-----------------------------------------------------------------------------------|:---------:|:---------:|:---------:|:---------:|---------------|
+| 62082                                                                             | -         | -         | -         | -         | 2             |
+| 62098                                                                             | -         | -         | -         | -         | 2             |
+| [62033](https://github.com/gtnikolov/SDA)                                         | 1.5       | 1.5       | 1.5       | -         | 6+            |
+| [62042](https://github.com/georgiharak/SDA-Homeworks)                             | 0.75      | -         | -         | -         | 3.75          |
+| [62104](https://github.com/play4uman/SDA---Homeworks)                             | 1.25      | 1         | 1         | -         | 5.25          |
+| 62000                                                                             | -         | -         | -         | -         | 2             |
+| 62032                                                                             | -         | -         | -         | -         | 2             |
+| [62040](https://github.com/Impera7)                                               | -         | -         | -         | -         | 2             |
+| [61997](https://github.com/arimmy/sda)                                            | 1.25      | 1         | 1.25      | -         | 5.50          |
+| [61985](https://github.com/NadezhdaIvelinova)                                     | -         | 1.25      | 1         | -         | 4.25          |
+| [62072](https://github.com/NikolayKIvanov/SDA)                                    | 1.25      | 1         | 1         | -         | 5.25          |
+| [62043](https://github.com/nidimi/sda)                                            | 1.25      | 0.75      | 0.75      | -         | 4.75          |
+| 62030                                                                             | -         | -         | -         | -         | 2             |
+| [62052](https://github.com/petyazh)                                               | -         | -         | -         | -         | 2             |
+| [61996](https://github.com/plamWorks/sda-hw)                                      | 1         | 0.75      | 0.75      | -         | 4.50          |
+| 62108                                                                             | -         | -         | -         | -         | 2             |
+| 855280                                                                            | -         | -         | -         | -         | 2             |
+| 61878                                                                             | -         | -         | -         | -         | 2             |
+| [62087](https://drive.google.com/drive/folders/0B_MfIUTwBkofRmZCLTQ0czVzYkk)      | -         | -         | -         | -         | 2             |
+| 855272                                                                            | -         | -         | -         | -         | 2             |
+| 855264                                                                            | -         | -         | -         | -         | 2             |
+| 855273                                                                            | -         | -         | -         | -         | 2             |
+| 855262                                                                            | -         | -         | -         | -         | 2             |
+| 855293                                                                            | -         | -         | -         | -         | 2             |
+| [61935](https://drive.google.com/drive/folders/1scu9-W_YuE3GIfQtK1wNIx7aD7B-_bxX) | -         | -         | -         | -         | 2             |
+| [61968](https://drive.google.com/drive/folders/1eOKrt-KP8mJM_xwEoNxbetZPXsmUSPIP) | -         | -         | -         | -         | 2             |
+| [61932](https://drive.google.com/open?id=15ImGxA93WbyGXzKdNKGXDPWP8D5sBtyn)       | -         | -         | -         | -         | 2             |
+| [61971](https://github.com/Kaloyan96/Homework1)                                   | 1         | 1         | 1         | -         | 5             |
 
 
 ## Конспект
