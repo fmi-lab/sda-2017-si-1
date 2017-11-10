@@ -45,3 +45,4 @@
 1. Напишете темплейтен клас за стек използващ свързаното представяне.
 1. [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)
 1. [Game of two stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem)
+1. [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)
