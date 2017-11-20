@@ -78,22 +78,33 @@ Disclaimer: За всички задачи изискващи оптимални
 |------------------|:---------:|:---------:|:---------:|:---------:|:---------:|---------------|
 | 62082            | -         | -         | -         | -         | -         | 2             |
 | 62098            | -         | -         | -         | -         | -         | 2             |
-| 62033            | -         | -         | -         | -         | -         | 2             |
-| 62042            | -         | -         | -         | -         | -         | 2             |
-| 62104            | -         | -         | -         | -         | -         | 2             |
+| [62033](https://github.com/gtnikolov/SDA)            | -         | -         | -         | -         | -         | 2             |
+| [62042](https://github.com/georgiharak/SDA-Homeworks) | -         | -         | -         | -         | -         | 2             |
+| [62104](https://github.com/play4uman/SDA---Homeworks) | -         | -         | -         | -         | -         | 2             |
 | 62000            | -         | -         | -         | -         | -         | 2             |
 | 62032            | -         | -         | -         | -         | -         | 2             |
 | 62040            | -         | -         | -         | -         | -         | 2             |
-| 61997            | -         | -         | -         | -         | -         | 2             |
-| 61985            | -         | -         | -         | -         | -         | 2             |
+| [61997](https://github.com/arimmy/sda) | -         | -         | -         | -         | -         | 2             |
+| [61985](https://github.com/NadezhdaIvelinova) | -         | -         | -         | -         | -         | 2             |
 | 62072            | -         | -         | -         | -         | -         | 2             |
-| 62043            | -         | -         | -         | -         | -         | 2             |
+| [62043](https://github.com/nidimi/sda) | -         | -         | -         | -         | -         | 2             |
 | 62030            | -         | -         | -         | -         | -         | 2             |
 | 62052            | -         | -         | -         | -         | -         | 2             |
-| 61996            | -         | -         | -         | -         | -         | 2             |
+| [61996](https://github.com/plamWorks/sda-hw) | -         | -         | -         | -         | -         | 2             |
 | 62108            | -         | -         | -         | -         | -         | 2             |
 | 855280           | -         | -         | -         | -         | -         | 2             |
 | 61878            | -         | -         | -         | -         | -         | 2             |
+| [62087](https://drive.google.com/drive/folders/0B_MfIUTwBkofRmZCLTQ0czVzYkk) | -         | -         | -         | -         | -         | 2             |
+| 855272          | -         | -         | -         | -         | -         | 2             |
+| 855264          | -         | -         | -         | -         | -         | 2             |
+| 855273          | -         | -         | -         | -         | -         | 2             |
+| 855262          | -         | -         | -         | -         | -         | 2             |
+| 855293          | -         | -         | -         | -         | -         | 2             |
+| [61935](https://drive.google.com/drive/folders/1scu9-W_YuE3GIfQtK1wNIx7aD7B-_bxX) | -         | -         | -         | -         | -         | 2             |
+| [61968](https://drive.google.com/drive/folders/1eOKrt-KP8mJM_xwEoNxbetZPXsmUSPIP) | -         | -         | -         | -         | -         | 2             |
+| [61932](https://drive.google.com/open?id=15ImGxA93WbyGXzKdNKGXDPWP8D5sBtyn) | -         | -         | -         | -         | -         | 2             |
+| [61971](https://github.com/Kaloyan96/Homework1) | -         | -         | -         | -         | -         | 2             |
+
 
 ## Конспект
 
