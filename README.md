@@ -83,13 +83,13 @@ Disclaimer: За всички задачи изискващи оптимални
 | [62104](https://github.com/play4uman/SDA---Homeworks) | -         | -         | -         | -         | -         | 2             |
 | 62000            | -         | -         | -         | -         | -         | 2             |
 | 62032            | -         | -         | -         | -         | -         | 2             |
-| 62040            | -         | -         | -         | -         | -         | 2             |
+| [62040](https://github.com/Impera7)            | -         | -         | -         | -         | -         | 2             |
 | [61997](https://github.com/arimmy/sda) | -         | -         | -         | -         | -         | 2             |
 | [61985](https://github.com/NadezhdaIvelinova) | -         | -         | -         | -         | -         | 2             |
-| 62072            | -         | -         | -         | -         | -         | 2             |
+| [62072](https://github.com/NikolayKIvanov/SDA)            | -         | -         | -         | -         | -         | 2             |
 | [62043](https://github.com/nidimi/sda) | -         | -         | -         | -         | -         | 2             |
 | 62030            | -         | -         | -         | -         | -         | 2             |
-| 62052            | -         | -         | -         | -         | -         | 2             |
+| [62052](https://github.com/petyazh)            | -         | -         | -         | -         | -         | 2             |
 | [61996](https://github.com/plamWorks/sda-hw) | -         | -         | -         | -         | -         | 2             |
 | 62108            | -         | -         | -         | -         | -         | 2             |
 | 855280           | -         | -         | -         | -         | -         | 2             |
